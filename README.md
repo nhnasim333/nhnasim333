@@ -40,7 +40,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 # 📊 GitHub Stats:
 <div align="center">
-
   <table>
     <tr>
       <td>
@@ -49,12 +48,13 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=nazmulhasannasim333&theme=radical&hide_border=false&count_private=true" height="200px" />
       </td>
-      <td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulhasannasim333&theme=radical&hide_border=false" height="200px" />
       </td>
     </tr>
   </table>
-
 </div>
 
 # 📊 Competitive Programming Stats:
