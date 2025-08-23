@@ -39,11 +39,23 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhasannasim333&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nazmulhasannasim333&theme=radical&hide_border=false&count_private=true" height="200px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulhasannasim333&theme=radical&hide_border=false" height="200px" />
-</p>
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhasannasim333&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=nazmulhasannasim333&theme=radical&hide_border=false&count_private=true" height="200px" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulhasannasim333&theme=radical&hide_border=false" height="200px" />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 # 📊 Competitive Programming Stats:
 <span>
