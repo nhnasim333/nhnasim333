@@ -3,11 +3,11 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nasim333)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nasim333#6311)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nasim333)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nasim333)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NHnasim333) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nhnasim333)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nhnasim333#6311)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nhnasim333)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nhnasim333)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nhnasim333) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -44,15 +44,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasim333&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhnasim333&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nasim333&theme=radical&show_icons=true&count_private=true&hide_border=false" alt="nasim333 :: Profile Stats" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=nhnasim333&theme=radical&show_icons=true&count_private=true&hide_border=false" alt="nhnasim333 :: Profile Stats" height="200px" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasim333&theme=radical&hide_border=false" height="200px" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhnasim333&theme=radical&hide_border=false" height="200px" />
       </td>
     </tr>
   </table>
@@ -63,13 +63,13 @@
   <table>
     <tr>
       <td>
-        <a href="https://codeforces.com/profile/nasim333" target="_blank">
-          <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=nasim333&theme=radical&disable_animations=false&show_icons=true&force_username=true" alt="Nasim Codeforces Stats"/>
+        <a href="https://codeforces.com/profile/nhnasim333" target="_blank">
+          <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=nhnasim333&theme=radical&disable_animations=false&show_icons=true&force_username=true" alt="Nasim Codeforces Stats"/>
         </a>
       </td>
       <td>
-        <a href="https://leetcode.com/u/nasim333" target="_blank">
-          <img height="316" src="https://leetcard.jacoblin.cool/nasim333?theme=radical&font=Fira%20Code&ext=contest" alt="Nasim Leetcode Stats"/>
+        <a href="https://leetcode.com/u/nhnasim333" target="_blank">
+          <img height="316" src="https://leetcard.jacoblin.cool/nhnasim333?theme=radical&font=Fira%20Code&ext=contest" alt="Nasim Leetcode Stats"/>
         </a>
       </td>
     </tr>
