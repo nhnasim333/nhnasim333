@@ -3,10 +3,10 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nazmulhasannasim333)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nazmulhasannasim333#6311)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nazmulhasannasim333)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nazmulhasannasim333)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nasim333)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nasim333#6311)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nasim333)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nasim333)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NHnasim333) 
 
 # 💻 Tech Stack:
@@ -44,15 +44,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhasannasim333&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasim333&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nazmulhasannasim333&theme=radical&show_icons=true&count_private=true&hide_border=false" alt="nazmulhasannasim333 :: Profile Stats" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=nasim333&theme=radical&show_icons=true&count_private=true&hide_border=false" alt="nasim333 :: Profile Stats" height="200px" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulhasannasim333&theme=radical&hide_border=false" height="200px" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasim333&theme=radical&hide_border=false" height="200px" />
       </td>
     </tr>
   </table>
