@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nhnasim333)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nhnasim333#6311)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nhnasim333)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nhnasim33)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nhnasim333)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nhnasim333) 
 
@@ -63,13 +63,13 @@
   <table>
     <tr>
       <td>
-        <a href="https://codeforces.com/profile/nhnasim333" target="_blank">
-          <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=nhnasim333&theme=radical&disable_animations=false&show_icons=true&force_username=true" alt="Nasim Codeforces Stats"/>
+        <a href="https://codeforces.com/profile/nasim333" target="_blank">
+          <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=nasim333&theme=radical&disable_animations=false&show_icons=true&force_username=true" alt="Nasim Codeforces Stats"/>
         </a>
       </td>
       <td>
-        <a href="https://leetcode.com/u/nhnasim333" target="_blank">
-          <img height="316" src="https://leetcard.jacoblin.cool/nhnasim333?theme=radical&font=Fira%20Code&ext=contest" alt="Nasim Leetcode Stats"/>
+        <a href="https://leetcode.com/u/nasim333" target="_blank">
+          <img height="316" src="https://leetcard.jacoblin.cool/nasim333?theme=radical&font=Fira%20Code&ext=contest" alt="Nasim Leetcode Stats"/>
         </a>
       </td>
     </tr>
